@@ -1,21 +1,10 @@
-<table align="center"><tr><td align="center" width="9999">
-<img src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" align="center" width="150" alt="Project icon">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm a Computer science student and <img src="https://www.bilder-upload.eu/upload/383401-1603635372.png" width="19px"> addicted 
+<p align="center">
+  <a href="">
+    <img width="200" src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" alt="logo" />
+  </a>
+</p>
 
-</td></tr></table>
-
-<!--
-**swolg/swolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm a Computer science student and <img src="https://www.bilder-upload.eu/upload/383401-1603635372.png" width="19px"> addicted </
+</p> 
