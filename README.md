@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  I'm a Computer science student and <img src="https://www.club-mate.de/wp-content/themes/clubmate/assets/images/logo/logo_emblem.svg" width="19px"> addicted </
+    Hi there I'm a Computer science student and <img src="https://www.club-mate.de/wp-content/themes/clubmate/assets/images/logo/logo_emblem.svg" width="19px"> addicted </
 </p> 
